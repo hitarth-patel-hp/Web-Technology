@@ -1,0 +1,7 @@
+HTML Multimedia – Summary
+
+Multimedia on the web refers to content that users can see or hear, such as images, audio, video, animations, and movies. Modern web pages often include multiple multimedia elements to improve user engagement and interaction. Early web browsers supported only text, but over time they evolved to support colors, images, sound, and video, allowing richer web experiences.
+
+Multimedia content is stored in media files, which are identified by file extensions such as .mp3, .mp4, .wav, and .webm. Different formats exist for audio and video, but not all are supported by web browsers. According to the HTML standard, only MP4, WebM, and Ogg are officially supported video formats, with MP4 being the most widely used and recommended by platforms like YouTube. Older formats such as AVI, WMV, Flash, and QuickTime are no longer supported directly in browsers.
+
+For audio, MP3 is the most popular and widely supported format due to its good compression and high sound quality. Other formats such as WAV and Ogg are also supported by HTML, while formats like WMA, AAC, and MIDI are not natively supported in web browsers. Understanding multimedia formats and browser support is essential for embedding compatible and accessible media content into modern websites.
