@@ -1,3 +1,0 @@
-Admin privileges in a user management system typically include the ability to create, edit, suspend, or delete user accounts, reset user passwords, assign roles, and control access to restricted areas of the system. Administrators may also monitor user activity, manage content (such as reviews or posts), and enforce security policies.
-
-These privileges are important because they help maintain system security, data integrity, and proper access control. Admin roles ensure that only authorised users can perform sensitive actions, reduce the risk of misuse or abuse, and allow the system to be effectively managed as it grows in size and complexity.
