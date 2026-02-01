@@ -1,0 +1,15 @@
+1. Two Key Security Measures to Protect a Website
+
+a) Input Validation and Prepared Statements
+Input validation ensures that user-submitted data is checked and sanitised before being processed. Using prepared statements for database queries prevents SQL injection by separating SQL code from user input, making it impossible for attackers to execute malicious queries.
+
+b) Output Encoding and Content Security Policies (CSP)
+Output encoding helps protect against cross-site scripting (XSS) by ensuring that user-generated content is displayed as data rather than executable code. A Content Security Policy further restricts which scripts and resources can run on a website, reducing the impact of malicious scripts.
+
+2. Importance of Keeping Website Software Up to Date
+
+Keeping website software such as the CMS, themes, and plugins up to date is essential because updates often include security patches that fix known vulnerabilities. Outdated software is a common target for attackers, and regular updates help maintain system stability, security, and compatibility with modern web standards.
+
+3. Security Plugin for WordPress
+
+One commonly used WordPress security plugin is Wordfence Security. Its purpose is to protect websites by providing features such as a web application firewall, malware scanning, brute-force attack protection, and login security. Wordfence enhances website security by actively monitoring threats and blocking malicious traffic in real time.
